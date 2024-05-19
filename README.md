@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ahmad Riski Fauzi 
+- 👋 Hi, I’m Ahmad Riski Fauzi
 - 👀 I’m interested in Artificial Intelegence and Blockchain Development 
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently focussed learning Web Development 
 - 📫 How to reach me ->  @chanelinfisibility@gmail.com
 
 <!---

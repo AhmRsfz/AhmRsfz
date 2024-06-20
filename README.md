@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmad Riski Fauzi
 - 👀 I’m interested in Artificial Intelegence and Blockchain Development 
-- 🌱 I’m currently focussed learning Wordpress Website Development 
+- 🌱 I’m currently focussed learning Website Development 
 - 📫 How to reach me -> ahmadprogrammin9@gmail.com
 
 <!---

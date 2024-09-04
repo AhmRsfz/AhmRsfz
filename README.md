@@ -1,8 +1,9 @@
 # Hi, I’m Ahmad Riski Fauzi 👋
-Im an undergraduate highschool student in SMK Wahidin, Cirebon. Im curently learning about Website Development, but also interested to explore about Artificial Intelligence, Game Development, and Blockchain technologi.
+Undergraduate highschool student in SMK Wahidin, Cirebon. Curently learn about Website Development, and also have interest to learn about another technologies. I have been know coding since more than two years ago, but still beginner in programming because of my inconsistency 🔰. 
 
 # My skills
 * Python
+* PHP
 * HTML
 * CSS
 * Javascript
